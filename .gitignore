@@ -27,3 +27,4 @@ _testmain.go
 cmd/pangpingk/pangpingk
 .DS_Store
 *.tar.gz
+.idea/
